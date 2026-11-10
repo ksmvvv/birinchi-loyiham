@@ -1,1 +1,2 @@
 # Birinchi loyiham
+# birinchi-loyiham
